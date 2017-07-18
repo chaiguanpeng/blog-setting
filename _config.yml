@@ -4,10 +4,10 @@
 
 # Site
 title: chaiguanpeng # your blog title name
-subtitle:  
+subtitle:
 author: 言Sir # 作者
-language: 
-timezone: 
+language:
+timezone:
 
 # custom Site settings
 # more detail check out docs
@@ -40,7 +40,7 @@ linkedin_username:
 anchorjs: false                        # if you want to customize anchor. check out line:181 of `post.html`
 
 
-# Disqus settings 
+# Disqus settings
 disqus_username:
 
 # Duoshuo settings
@@ -59,7 +59,7 @@ ga_track_id:             # Format: UA-xxxxxx-xx
 ga_domain:
 
 # Sidebar settings
-sidebar-about-description: '态度决定你的高度' # 个人描述
+sidebar-about-description: '生活总是让我们遍体鳞伤，但到后来，那些受伤的地方一定会变成我们最强壮的地方。' # 个人描述
 sidebar-avatar: http://oqsmnfdij.bkt.clouddn.com/images/anthor.JPG2545234.png # use absolute URL
 
 
@@ -150,10 +150,10 @@ post-default-img: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg  #博文默�
 post-default-img-mobile: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg #移动端显示的图片
 
 # search api , set your custom key
-swiftype_key: 
+swiftype_key:
 
 
-# archive page title 
+# archive page title
 archive:
     title: archives
     description: 可以根据归档日期检索所有文件
