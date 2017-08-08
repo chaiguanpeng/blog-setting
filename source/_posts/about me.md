@@ -1,17 +1,35 @@
 ---
 title: who's 言Sir
-date: 2016-07-15
+date: 2017-08-09 11:45:37
+cdn: 'header-on'
+header-img: "/images/poem1.jpg"
+tags: life
 ---
 welcome to [my blog](https://chaiguanpeng.github.io), handsome guy and pretty girl.**thanks for your visit,this is the greatest support for me.**
 ## about me
-  作为博主的第一篇文章，先写点非技术类的话题压压筋。
+  作为博主的第一篇文章，先写点非技术类的话题开篇吧
 
 ### 生活
- 有着180身高但体重不足135的小瘦子，是一个阳光、活泼的逗逼 **文艺小青年** ，同时又略带些悲观主义情怀。
+ 如果我们都变成小肥羊的羊，肯德基的鸡，生下来就是为了死，我宁愿从未被生下来。爱是理解，不是禁锢。生是见识，不是活着。
 
 ### 工作
-结束了大学的美好生活,步入工作正规已经1年多了,从当初的 **小白** 变的颇有些经验了，我为我离大神距离的缩短而骄傲。
-当然收获的不仅仅是知识，还有团队协作能力、与人沟通的技巧以及一些如何偷懒的小技巧(哈哈)，祝愿我们所有人在工作中都能顺心如意。
+比较赞同态度决定一切，因为我认为我们每个人的能力都是有限的，我们能不能把事做好是能力问题，但会不会去做就是态度问题，我想只要我们端正态度，我们就会做好每一件事。
 
 ### 娱乐
-已然没有了大学撸游戏通宵的节奏，回到家躺在床上才感觉是最舒服的,懒得开电脑。当然有基友的呼唤，还是能充满激情的嗨，仿佛又回到"好基友，一起走"的那些年。
+玩是每个人的天性，但不要过于痴迷，多注意身边的亲情和友情。游戏是用来娱乐的，是疲劳时候放松过用的，又有多少人被游戏玩了。
+所以，任何事都要保持一个度，需要自己来把握，毕竟人生是活给自己看的。
+
+![言sir](http://oqsmnfdij.bkt.clouddn.com/images/pay.png)
+
+<p style="text-align: center;display: block;
+    width: 100px;
+    margin:0 auto;
+    height: 30px;
+    line-height: 30px;
+    background-color: #E74851;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;">打赏一个呗</p>

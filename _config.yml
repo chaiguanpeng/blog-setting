@@ -49,11 +49,12 @@ duoshuo_username:  # 你的多说帐号
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 # Use livere
-use_livere:
+use_livere: true
+livere_uid: "MTAyMC8yOTY0OS82MjE3"
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id:
+ba_track_id: "ecace9cd4e19049916c87ddd8f347e6e"
 # Google Analytics
 ga_track_id:             # Format: UA-xxxxxx-xx
 ga_domain:
@@ -65,7 +66,7 @@ sidebar-avatar: http://oqsmnfdij.bkt.clouddn.com/images/anthor.JPG2545234.png # 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 1             # A tag will be featured if the size of it is more than this condition value
 
 # friends
 friends:  # 友链
