@@ -66,6 +66,79 @@ v-if：   判断是否加载,可以减轻服务器压力，在需要时加载
 v-show:  调整css display属性,可以使客户端操作更加流畅
 
 ## 第三节: v-for指令 解决模板循环问题
+  v-for指令是循环渲染一组data中的数组,v-for指令需要以 item in items形式的特殊语法,items是源数据数组并且item是数组元素迭代的别名.
 
+#### 一、基本用法:
+  模板写法
+```
+<div id="app">
+    <ul><li v-for="item in items">{{item}}</li></ul>
+</div>
+<script type="text/javascript">
+       var app=new Vue({
+           el:'#app',
+           data:{
+              items:[1,2,3,4,5]
+           }
+       })
+</script>
+```
 
-  
+#### 二、排序
+    如果我们需要在输出之前给数组排个序，那我们就用到了vue的computed属性
+    ```
+    <div id="app">
+        <ul><li v-for="item in items">{{item}}</li></ul>
+    </div>
+    <script type="text/javascript">
+           var app=new Vue({
+               el:'#app',
+               data:{
+                  items:[1,2,3,4,5]
+               },
+               computed:{
+                 sortItems:function(){
+                   return this.items.sort(sortNumber)
+                 }
+               }
+           })
+
+           function sortNumber(a,b) {
+             return a-b
+           }
+    </script>
+    ```
+#### 三、对象循环输出
+    对象类型的循环输出
+    ```
+    <div id="app">
+        <ul><li v-for="item in sortStudents">{{item}}</li></ul>
+    </div>
+    <script type="text/javascript">
+           var app=new Vue({
+               el:'#app',
+               data:{
+                  students:[
+                    {name:"D",age:40},
+                    {name:"C",age:30},
+                    {name:"B",age:20},
+                    {name:"A",age:10}
+                  ]
+               },
+               computed:{
+                 sortStudents:function(){
+                    return sortByKey(this.students,'age')
+                 }
+               }
+           })
+
+           //数组对象方法排序:
+           function sortByKey(array,key){
+             return array.sort(function(a,b){
+               var x=a[key];
+               var y=b[key];
+               return ((x<y)?-1:((x>y)?1:0));
+             });
+        }
+    </script>
+    ```
