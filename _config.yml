@@ -12,7 +12,7 @@ timezone:
 # custom Site settings
 # more detail check out docs
 SEOTitle: 言Sir's blog
-header-img: //oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg
+header-img: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg
 email: a691633847@gmail.com
 description: "柴关鹏在 Github 上的个人博客"
 keyword: # seo key words

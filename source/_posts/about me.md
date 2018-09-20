@@ -32,5 +32,5 @@ welcome to [my blog](https://chaiguanpeng.github.io), handsome guy and pretty gi
     text-decoration: none;
     border-radius: 8px;
     font-weight: bold;
-    font-size: 16px;">打赏一个呗
+    font-size: 16px;" id="btn">打赏一个呗
   </p>
