@@ -31,6 +31,13 @@
 <canvas id="canv"></canvas>
 <script src="//cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
 <script>
+    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))){
+       $("#canv").hide()
+    }else{
+        $("#canv").show()
+    }
+</script>
+<script>
     var num = 200;
     var w = window.innerWidth;
     var h = window.innerHeight;
