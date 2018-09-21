@@ -120,7 +120,7 @@ export default connect(
 - 组件内部派发动作时，type:'counter/add'，前面多了counter(命名空间)
 - connect时的状态是总的状态，需要制定下需要counter的状态
 
-![](https://user-gold-cdn.xitu.io/2018/9/20/165f6413a0361f45?w=1230&h=350&f=png&s=11768)
+![](https://user-gold-cdn.xitu.io/2018/9/21/165fa2471920c491?w=1213&h=347&f=png&s=12221)
 
 > 目前为止，dva流程已经跑通了，是不是很简单，我们测试下是否能点击加2
 
