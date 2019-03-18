@@ -59,17 +59,3 @@ public class ajax : IHttpHandler {
         success(data);
   }
 
-  ![言sir](http://oqsmnfdij.bkt.clouddn.com/images/pay.png)
-
-  <p style="text-align: center;display: block;
-      width: 100px;
-      margin:0 auto;
-      height: 30px;
-      line-height: 30px;
-      background-color: #E74851;
-      color: #fff;
-      text-align: center;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: bold;
-      font-size: 16px;">打赏一个呗</p>

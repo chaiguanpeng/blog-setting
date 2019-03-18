@@ -12,7 +12,7 @@ timezone:
 # custom Site settings
 # more detail check out docs
 SEOTitle: 言Sir's blog
-header-img: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg
+header-img: http://po9anvcs7.bkt.clouddn.com/image/bg.jpg
 email: a691633847@gmail.com
 description: "柴关鹏在 Github 上的个人博客"
 keyword: # seo key words
@@ -61,7 +61,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar-about-description: '生活总是让我们遍体鳞伤，但到后来，那些受伤的地方一定会变成我们最强壮的地方。' # 个人描述
-sidebar-avatar: http://oqsmnfdij.bkt.clouddn.com/images/anthor.JPG2545234.png # use absolute URL
+sidebar-avatar: http://po9anvcs7.bkt.clouddn.com/image/auther.jpg # use absolute URL
 
 
 # Featured Tags
@@ -138,7 +138,7 @@ deploy:
 
 
 # img CDN path
-cdn-url: http://oqsmnfdij.bkt.clouddn.com     # 你的CDN地址
+cdn-url: http://po9anvcs7.bkt.clouddn.com    # 你的CDN地址
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
@@ -147,8 +147,8 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg  #博文默认的图片
-post-default-img-mobile: http://oqsmnfdij.bkt.clouddn.com/images/bg_1.jpg #移动端显示的图片
+post-default-img: http://po9anvcs7.bkt.clouddn.com/image/bg.jpg  #博文默认的图片
+post-default-img-mobile: http://po9anvcs7.bkt.clouddn.com/image/bg.jpg #移动端显示的图片
 
 # search api , set your custom key
 swiftype_key:

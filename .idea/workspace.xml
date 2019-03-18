@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe34c66a-fbb0-454f-b8b8-113cefac77a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/about me.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/about me.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1716">
+            <state relative-caret-position="1950">
               <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
             </state>
           </provider>
@@ -38,14 +36,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js数组中filter、map、reduce、find等方法实现的原理.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="js数组中filter、map、reduce、find等方法实现的原理.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/js数组中filter、map、reduce、find等方法实现的原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
+              <first_editor relative-caret-position="350">
                 <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/Anisina/layout/post.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="is.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/helper/is.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/hexo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7725">
+              <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -64,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/Vue2-0内部指令（中）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1452">
+              <first_editor relative-caret-position="1650">
                 <caret line="66" selection-start-line="66" selection-end-line="66" selection-end-column="3" />
               </first_editor>
               <second_editor />
@@ -111,6 +136,13 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/themes/Anisina/package.json" />
+      <path value="$PROJECT_DIR$/themes/landscape/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/themes/Anisina/package.json" />
   </component>
@@ -126,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,32 +169,32 @@
             <path>
               <item name="blog-setting" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-setting" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog-setting" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-setting" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="Anisina" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog-setting" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-setting" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="Anisina" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/blog/themes/Anisina/.idea/vcs.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="G:/learn/node" />
+    <property name="last_opened_file_path" value="G:/practice" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -188,63 +221,6 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -302,11 +278,13 @@
       <workItem from="1504834057135" duration="57000" />
       <workItem from="1527560265716" duration="2302000" />
       <workItem from="1527571578733" duration="12000" />
+      <workItem from="1538064664807" duration="99000" />
+      <workItem from="1538133494674" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39070000" />
+    <option name="totallyTimeSpent" value="39786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -340,13 +318,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/tags/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -586,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/source/js数组中filter、map、reduce、find等方法实现的原理/index.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
+        <state relative-caret-position="1950">
           <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
         </state>
       </provider>
@@ -610,7 +581,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Vue2-0内部指令（中）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1452">
+          <first_editor relative-caret-position="1650">
             <caret line="66" selection-start-line="66" selection-end-line="66" selection-end-column="3" />
           </first_editor>
           <second_editor />
@@ -620,10 +591,31 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/js数组中filter、map、reduce、find等方法实现的原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
+          <first_editor relative-caret-position="350">
             <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/hexo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7725">
+          <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Anisina/layout/post.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/helper/is.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
         </state>
       </provider>
     </entry>

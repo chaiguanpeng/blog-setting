@@ -2,7 +2,7 @@
 title: who's 言Sir
 date: 2018-12-30 11:45:37
 cdn: 'header-on'
-header-img: "/images/poem1.jpg"
+header-img: "/image/bg.jpg"
 tags: life
 ---
 welcome to [my blog](https://chaiguanpeng.github.io), handsome guy and pretty girl.**thanks for your visit,this is the greatest support for me.**
@@ -19,18 +19,3 @@ welcome to [my blog](https://chaiguanpeng.github.io), handsome guy and pretty gi
 玩是每个人的天性，但不要过于痴迷，多注意身边的亲情和友情。游戏是用来娱乐的，是疲劳时候放松过用的，又有多少人被游戏玩了。
 所以，任何事都要保持一个度，需要自己来把握，毕竟人生是活给自己看的。
 
-![言sir](http://oqsmnfdij.bkt.clouddn.com/images/pay.png)
-
-<p style="text-align: center;display: block;
-    width: 100px;
-    margin:0 auto;
-    height: 30px;
-    line-height: 30px;
-    background-color: #E74851;
-    color: #fff;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: bold;
-    font-size: 16px;" id="btn">打赏一个呗
-  </p>

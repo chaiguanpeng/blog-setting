@@ -1,7 +1,7 @@
 ---
 title: koa用法总结
 cdn: 'header-on'
-header-img: "/images/poem1.jpg"
+header-img: "/image/bg.jpg"
 tags: node
 ---
 #### 前言

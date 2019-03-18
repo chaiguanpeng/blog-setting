@@ -2,7 +2,7 @@
 title: 实现自己的cgp-server静态服务
 date: 2018-07-24 15:26:22
 cdn: 'header-on'
-header-img: "/images/poem1.jpg"
+header-img: "/image/bg.jpg"
 tags: node
 ---
 #### 序言

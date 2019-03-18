@@ -4,7 +4,7 @@ date: 2017-07-31 13:49:19
 author: 乔治·戈登·拜伦
 tags: life
 cdn: 'header-on'
-header-img: "/images/poem1.jpg"
+header-img: "/image/bg.jpg"
 ---
 If I should meet thee    <span style="float: right"> 多年惜别后，</span>
 
